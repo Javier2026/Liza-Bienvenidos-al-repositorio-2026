@@ -1,4 +1,4 @@
-# 🌎 🌎ANI MX SCANS🌏 🌏
+# 🌎Liza-Bienvenidos al repositorio 2026🌎ANI MX SCANS🌏 🌏
 Bot promocional del proyecto 🌎ANI MX SCANS🌏 by ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺
 
 UN AGRADECIMIENTO MUY ESPECIAL A MI MAESTRO [@BrunoSobrino](https://github.com/BrunoSobrino) QUÉ ME AYUDÓ A DARLE VIDA A MIS BOTS.
@@ -303,4 +303,4 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ## `EDITOR Y PROPIETARIO DEL BOT` 
 <a href="https://github.com/ReyEndymion"><img src="https://github.com/ReyEndymion.png" width="250" height="250" alt="ReyEndymion"/></a>
 
-`ANI_MX_SCANS-MD _ By Rey Endymion`
+`Liza-Bienvenidos al repositorio 2026🌎ANI MX SCANS🌏 🌏-MD _ By Rey Endymion`
